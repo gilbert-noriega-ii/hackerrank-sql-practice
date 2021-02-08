@@ -1,0 +1,1 @@
+repo for hackerrank sql practice
